@@ -1,16 +1,21 @@
 <div></div>
 <div class="background">
 
+<table>
+<tbody>
+<tr>
+<td>
 
+# [Welcome, I'm Ernesto Martinez, I'll be your host.](#)
+</td>
+<img src="ErnestoMartinez.png" alt="Portrait image">
+</tr>
+</tbody>
+</table>
 
-  <div>
-    <h1>Welcome, I'm Ernesto Martinez,<br>I'll be your host.</h1>
-    <img src="ErnestoMartinez.png" alt="Portrait image">
-  </div>
 
 
 <div class="written-content">
-\textcolor{blue}{blue}
 
 ## <span class="sub-header">About Me</span>
 <span class="text">I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.</span>
