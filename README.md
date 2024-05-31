@@ -27,12 +27,6 @@
     align-items: center;
     justify-content: space-between;
   }
-  .welcome {
-    color: rgb(30, 150, 250);
-    margin: 0 5vh;
-    padding: 3vw;
-    font-size: 3.4vw;
-  }
   .portrait {
     height: 16vw;
     width: auto;
@@ -79,7 +73,11 @@
 
 
 <div class="top-greeting">
-<h1 class="welcome">Welcome, I'm Ernesto Martinez, <br>I'll be your host.</h1>
+<h1 style="
+    color: rgb(30, 150, 250);
+    margin: 0 5vh;
+    padding: 3vw;
+    font-size: 3.4vw;">Welcome, I'm Ernesto Martinez, <br>I'll be your host.</h1>
 <img class="portrait" src="ErnestoMartinez.png" alt="Portrait image">
 </div>
 
