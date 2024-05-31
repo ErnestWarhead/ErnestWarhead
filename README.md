@@ -282,8 +282,8 @@
     <tr>
       <td class="table-data">
         <div style="display: flex; justify-content: space-between">
-          <img src="icons/Github.png" class="icon">
-          <p class="table-text">Github</p>
+          <img src="icons/GitHub.png" class="icon">
+          <p class="table-text">GitHub</p>
         </div>
           <div style="display: flex; margin: 0.3vw">
           <div class="score"></div>
