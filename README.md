@@ -3,8 +3,8 @@
   <tbody>
     <tr>
       <td>
-        <h1><a>Welcome, I'm Ernesto Martinez</a></h1>
-        <h1><a>I'll be your host.</a></h1>
+        <h1>Welcome, I'm Ernesto Martinez</h1>
+        <h1>I'll be your host 😉</h1>
       </td>
       <td>
       <img src="ErnestoMartinez.png" alt="Portrait image">
@@ -13,35 +13,22 @@
   </tbody>
 </table>
 
-
-
-<div class="written-content">
-
 ## [About Me](#)
->I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.
+Hey there! I'm your go-to Full Stack Developer. I can speak both Spanish and English fluently`, that means I can communicate with more than half of the people in the US 😉`. Leveraging my professional certification from 4Geeks Academy, I leave little to be desired`, I’ve got a full skillset stacked with Full Stack skills 😁`.
 
-<span class="text">• 🌍 Based in: Champions Gate, FL</span>  
-<span class="text">• 📫 Contact: <a href="mailto:ernest.98.2015@gmail.com" style="color: rgb(30, 150, 250)">ernest.98.2015@gmail.com</a></span>  
-<span class="text">• 🔗 <a href="https://www.linkedin.com/in/ernesto-martinez-f" style="color: rgb(30, 150, 250)">LinkedIn</a> | <a href="https://twitter.com/ErnestWarhead" style="color: rgb(30, 150, 250)">Twitter</a></span>
+Before I was driven to developing, I drove for nearly three amazing years as an OTR truck driver`, you can say I went from big rig to sleek geek 🤔`. I pride myself of the road warrior discipline, strategic thinking, and deadline-crushing prowess I inherited from my previous trade`, also no one beats me at American Truck Simulator 😂`. 
 
+I'm packed to the brim with both front-end and back-end skills`, if it was a toolbox, it would be a big toolbox 🧰`, crafting robust, user-centric applications that stand up to high-stakes environments. Whether it's creating sleek interfaces or powering complex backend systems, I've got it covered. ``
+
+- 🌍 Based in: Champions Gate, FL
+- 📫 Hit me up: [ernest.98.2015@gmail.com](mailto:ernest.98.2015@gmail.com)
+- 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/ernesto-martinez-f) | [Twitter](https://twitter.com/ErnestWarhead)
+
+Ready to build something awesome together? Let's get started! 🌟
 ## [Skills](#)
 <table>
   <tbody>
     <tr>
-      <td>
-          <img src="icons/Python.png">
-          <h3><a>Python</a></h3>
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
-      </td>
       <td>
           <img src="icons/JavaScript.png">
           <h3><a>JavaScript</a></h3>
@@ -54,6 +41,20 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+      </td>
+      <td>
+          <img src="icons/Python.png">
+          <h3><a>Python</a></h3>
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
@@ -108,8 +109,8 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
@@ -125,7 +126,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
@@ -139,7 +140,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
       </td>
     </tr>
@@ -167,7 +168,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
@@ -226,7 +227,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
       </td>
@@ -239,7 +240,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
-          <img src="NoScore.png" alt="Score sq">
+          <img src="Score.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
           <img src="NoScore.png" alt="Score sq">
@@ -271,7 +272,7 @@
 >- ##### **[English:](#)** Advanced (C1)
 
 ## [Professional Experience](#)
->- ##### [**2.6 years**](#) as an OTR Truck Driver with:
+> ##### [**2.6 years**](#) as an OTR Truck Driver with:
 >- Poly Trucking - Grand Prairie, TX
 >- K&B Transportation - Council Bluffs, IA
 >- CRST The Transportation Solution, Inc. - Cedar Rapids, IA
