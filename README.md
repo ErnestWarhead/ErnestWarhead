@@ -211,12 +211,12 @@
 </table>
 
 ## [Education](#)
->- **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
->- **2013 - 2016:** IPVCE Mártires de Humboldt 7 - High School Diploma
+>- ##### **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
+>- ##### **2013 - 2016:** [IPVCE Mártires de Humboldt 7](#) - High School Diploma
 
 ## [Languages](#)
->#### **[Spanish:]()** Native language
->#### **[English:]()** Advanced (C1)
+>- ##### **[Spanish:](#)** Native language
+>- ##### **[English:](#)** Advanced (C1)
 
 ## [Professional Experience](#)
 >- **2.6 years** as an OTR Truck Driver with:
