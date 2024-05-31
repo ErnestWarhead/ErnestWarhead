@@ -13,32 +13,6 @@
     border-radius: 0 0 10px 10px;
     font-family: Arial, sans-serif;
   }
-  .top-greeting {
-      background-image: url("Resume top grid.png");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    width: 100%;
-    height: 18vw;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .welcome {
-    color: rgb(30, 150, 250);
-    margin: 0 5vh;
-    padding: 3vw;
-    font-size: 3.4vw;
-  }
-  .portrait {
-    height: 16vw;
-    width: auto;
-    margin: 0 5vw;
-    padding: 0;
-  }
   .written-content {
     margin: 3vh;
   }
@@ -78,21 +52,10 @@
 
 
 
-<div class="top-greeting" style="background-image: url("Resume top grid.png");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    width: 100%;
-    height: 18vw;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;">
-<h1 class="welcome">Welcome, I'm Ernesto Martinez, <br>I'll be your host.</h1>
-<img class="portrait" src="ErnestoMartinez.png" alt="Portrait image">
-</div>
+  <div style="background-image: url('Resume top grid.png'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: space-between; height: 18vw;">
+    <h1 style="color: rgb(30, 150, 250); margin: 0 5vh; padding: 3vw; font-size: 3.4vw;">Welcome, I'm Ernesto Martinez,<br>I'll be your host.</h1>
+    <img src="ErnestoMartinez.png" alt="Portrait image" style="height: 16vw; width: auto; margin: 0 5vw;">
+  </div>
 
 
 <div class="written-content">
