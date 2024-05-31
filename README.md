@@ -3,7 +3,9 @@
   <tbody>
     <tr>
       <td>
-        <h1>[Welcome, I'm Ernesto Martinez]()</h1>
+        # Welcome, I'm Ernesto Martinez
+        # [Welcome, I'm Ernesto Martinez](#)
+        <h1><a>Welcome, I'm Ernesto Martinez</a></h1>
         <h1><a>I'll be your host.</a></h1>
       </td>
       <td>
@@ -18,7 +20,7 @@
 <div class="written-content">
 
 ## [About Me](#)
-<span class="text">I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.</span>
+>I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.
 
 <span class="text">• 🌍 Based in: Champions Gate, FL</span>  
 <span class="text">• 📫 Contact: <a href="mailto:ernest.98.2015@gmail.com" style="color: rgb(30, 150, 250)">ernest.98.2015@gmail.com</a></span>  
@@ -211,24 +213,18 @@
 </table>
 
 ## [Education](#)
-<span class="text">
-- **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
-- **2013 - 2016:** IPVCE Mártires de Humboldt 7 - High School Diploma
-</span>
+>- **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
+>- **2013 - 2016:** IPVCE Mártires de Humboldt 7 - High School Diploma
 
 ## [Languages](#)
-<span class="text">
-- **Spanish:** Native language
-- **English:** Advanced (C1)
-</span>
+>- **[Spanish:]()** Native language
+>- **[English:]()** Advanced (C1)
 
 ## [Professional Experience](#)
-<span class="text">
-- **2.6 years** as an OTR Truck Driver with:
-  - Poly Trucking - Grand Prairie, TX
-  - K&B Transportation - Council Bluffs, IA
-  - CRST The Transportation Solution, Inc. - Cedar Rapids, IA
-</span>
+>- **2.6 years** as an OTR Truck Driver with:
+>  - Poly Trucking - Grand Prairie, TX
+>  - K&B Transportation - Council Bluffs, IA
+>  - CRST The Transportation Solution, Inc. - Cedar Rapids, IA
 
 [Blue Link Text](#)
 
