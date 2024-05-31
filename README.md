@@ -17,14 +17,14 @@
 
 <div class="written-content">
 
-## [About Me]()
+## [About Me](#)
 <span class="text">I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.</span>
 
 <span class="text">• 🌍 Based in: Champions Gate, FL</span>  
 <span class="text">• 📫 Contact: <a href="mailto:ernest.98.2015@gmail.com" style="color: rgb(30, 150, 250)">ernest.98.2015@gmail.com</a></span>  
 <span class="text">• 🔗 <a href="https://www.linkedin.com/in/ernesto-martinez-f" style="color: rgb(30, 150, 250)">LinkedIn</a> | <a href="https://twitter.com/ErnestWarhead" style="color: rgb(30, 150, 250)">Twitter</a></span>
 
-## [Skills]()
+## [Skills](#)
 <table>
   <tbody>
     <tr>
@@ -210,22 +210,34 @@
   </tbody>
 </table>
 
-## [Education]()
+## [Education](#)
 <span class="text">
 - **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
 - **2013 - 2016:** IPVCE Mártires de Humboldt 7 - High School Diploma
 </span>
 
-## [Languages]()
+## [Languages](#)
 <span class="text">
 - **Spanish:** Native language
 - **English:** Advanced (C1)
 </span>
 
-## [Professional Experience]()
+## [Professional Experience](#)
 <span class="text">
 - **2.6 years** as an OTR Truck Driver with:
   - Poly Trucking - Grand Prairie, TX
   - K&B Transportation - Council Bluffs, IA
   - CRST The Transportation Solution, Inc. - Cedar Rapids, IA
 </span>
+
+[Blue Link Text](#)
+
+`Code Block Text`
+
+![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Red+Text)
+
+<span style="color:green">Green Text</span>
+
+:yellow_heart: Text with Yellow Heart
+
+> Blockquoted Text
