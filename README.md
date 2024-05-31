@@ -47,6 +47,14 @@
   }
 </style>
 
+<!-- Plain Paragraph -->
+<p>This is a plain paragraph without any inline styles.</p>
+
+<!-- Styled Paragraph with Inline CSS -->
+<p style="color: red; font-size: 20px; font-weight: bold; text-align: center; background-color: yellow; padding: 10px; border: 2px solid blue; border-radius: 5px;">
+  This is a styled paragraph with various inline CSS styles.
+</p>
+
 <div style="height: 3vh; background-color: rgb(30, 150, 250); border-radius:10px 10px 0 0;"></div>
 <div class="background">
 
