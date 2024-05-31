@@ -1,72 +1,16 @@
-<style>
-    body {
-        padding: 0;
-        margin: 0;
-    }
-  .background {
-    background-color: rgb(35, 35, 35);
-    background-image: url("Resume background.PNG");
-    background-size: cover;
-    background-position: center;
-    padding: 0;
-    margin: 0;
-    border-radius: 0 0 10px 10px;
-    font-family: Arial, sans-serif;
-  }
-  .written-content {
-    margin: 3vh;
-  }
-  .sub-header {
-    color: rgb(30, 150, 250);
-    font-size: 3vw;
-  }
-  .text {
-    color: rgb(150, 150, 145);
-    font-size: 2vw;
-  }
-  .table-text {
-    color: rgb(150, 150, 145);
-    font-size: 2.5vw;
-    padding: 0;
-    margin: 0;
-  }
-  .table-data{
-    height: 10vw;
-    width: 20vw;
-    Padding:0 2vw;
-  }
-  .icon {
-    height: 4vw;
-  }
-  .score {
-    height: 1.5vw;
-    width: 1.5vw;
-    margin: 0.13vw;
-    background-color: rgb(30, 150, 250);
-    border-radius: 0.5vw;
-  }
-</style>
-
-<!-- Plain Paragraph -->
-<p>This is a plain paragraph without any inline styles.</p>
-
-<!-- Styled Paragraph with Inline CSS -->
-<p style="color: red; font-size: 20px; font-weight: bold; text-align: center; background-color: yellow; padding: 10px; border: 2px solid blue; border-radius: 5px;">
-  This is a styled paragraph with various inline CSS styles.
-</p>
-
-<div style="height: 3vh; background-color: rgb(30, 150, 250); border-radius:10px 10px 0 0;"></div>
+<div></div>
 <div class="background">
 
 
 
-  <div style="background-image: url('Resume top grid.png'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: space-between; height: 18vw;">
-    <h1 style="color: rgb(30, 150, 250); margin: 0 5vh; padding: 3vw; font-size: 3.4vw;">Welcome, I'm Ernesto Martinez,<br>I'll be your host.</h1>
-    <img src="ErnestoMartinez.png" alt="Portrait image" style="height: 16vw; width: auto; margin: 0 5vw;">
+  <div>
+    <h1>Welcome, I'm Ernesto Martinez,<br>I'll be your host.</h1>
+    <img src="ErnestoMartinez.png" alt="Portrait image">
   </div>
 
 
 <div class="written-content">
+\textcolor{blue}{blue}
 
 ## <span class="sub-header">About Me</span>
 <span class="text">I'm a dynamic Full Stack Developer fluent in Spanish and English, currently completing my professional certification from <a href="https://4geeksacademy.com/" style="color: rgb(30, 150, 250)">4Geeks Academy</a>. With nearly three years of experience as an OTR truck driver, I bring exceptional self-discipline, strategic planning, and deadline management skills to my development projects. My expertise spans both front-end and back-end technologies, allowing me to create robust, user-centric applications in high-stakes environments.</span>
