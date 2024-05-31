@@ -219,10 +219,10 @@
 >- ##### **[English:](#)** Advanced (C1)
 
 ## [Professional Experience](#)
->- **2.6 years** as an OTR Truck Driver with:
->  - Poly Trucking - Grand Prairie, TX
->  - K&B Transportation - Council Bluffs, IA
->  - CRST The Transportation Solution, Inc. - Cedar Rapids, IA
+>- ##### [**2.6 years**](#) as an OTR Truck Driver with:
+>- Poly Trucking - Grand Prairie, TX
+>- K&B Transportation - Council Bluffs, IA
+>- CRST The Transportation Solution, Inc. - Cedar Rapids, IA
 
 `Code Block Text`
 
