@@ -38,6 +38,9 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/JavaScript.png">
@@ -51,6 +54,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/JWT.png">
@@ -62,6 +66,9 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/React.png">
@@ -75,6 +82,7 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
     </tr>
     <tr>
@@ -88,6 +96,9 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/OOP.png">
@@ -97,6 +108,11 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/HTML 5.png">
@@ -109,6 +125,8 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/CSS.png">
@@ -121,6 +139,8 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
     </tr>
     <tr>
@@ -131,6 +151,12 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/Flask.png">
@@ -141,6 +167,10 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/SQL.png">
@@ -149,6 +179,12 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/SQLA.png">
@@ -160,6 +196,9 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
     </tr>
     <tr>
@@ -174,6 +213,8 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/Git.png">
@@ -185,6 +226,9 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/Flux.png">
@@ -195,6 +239,10 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
       <td>
           <img src="icons/Figma.png">
@@ -205,6 +253,10 @@
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
+          <img src="NoScore.png" alt="Score sq">
       </td>
     </tr>
   </tbody>
