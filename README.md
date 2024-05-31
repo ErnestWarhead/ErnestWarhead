@@ -78,7 +78,18 @@
 
 
 
-<div class="top-greeting">
+<div class="top-greeting" style="background-image: url("Resume top grid.png");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    height: 18vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;">
 <h1 class="welcome">Welcome, I'm Ernesto Martinez, <br>I'll be your host.</h1>
 <img class="portrait" src="ErnestoMartinez.png" alt="Portrait image">
 </div>
