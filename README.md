@@ -3,8 +3,6 @@
   <tbody>
     <tr>
       <td>
-        # Welcome, I'm Ernesto Martinez
-        # [Welcome, I'm Ernesto Martinez](#)
         <h1><a>Welcome, I'm Ernesto Martinez</a></h1>
         <h1><a>I'll be your host.</a></h1>
       </td>
@@ -217,8 +215,8 @@
 >- **2013 - 2016:** IPVCE Mártires de Humboldt 7 - High School Diploma
 
 ## [Languages](#)
->- **[Spanish:]()** Native language
->- **[English:]()** Advanced (C1)
+>### **[Spanish:]()** Native language
+>### **[English:]()** Advanced (C1)
 
 ## [Professional Experience](#)
 >- **2.6 years** as an OTR Truck Driver with:
@@ -226,14 +224,6 @@
 >  - K&B Transportation - Council Bluffs, IA
 >  - CRST The Transportation Solution, Inc. - Cedar Rapids, IA
 
-[Blue Link Text](#)
-
 `Code Block Text`
 
-![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Red+Text)
-
-<span style="color:green">Green Text</span>
-
 :yellow_heart: Text with Yellow Heart
-
-> Blockquoted Text
