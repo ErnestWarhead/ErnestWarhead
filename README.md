@@ -264,6 +264,10 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
   </tbody>
 </table>
 
+<img width="40%" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
+<img width="58.5%" src="https://github-readme-stats.vercel.app/api?username=ErnestWarhead&show_icons=true&theme=default">
+<img width="58.5%" alt="Hello">
+
 ## [Education](#)
 ⦿ **June 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification  
 ⦿ **2013 - 2016:** [IPVCE Mártires de Humboldt 7](#) - High School Diploma
