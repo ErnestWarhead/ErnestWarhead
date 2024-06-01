@@ -264,19 +264,13 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
   </tbody>
 </table>
 
-><table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ErnestWarhead&show_icons=true&theme=default">
-        <img alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.">
-      </td>
-      <td>
-        <img align="right" width="1400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img align="right" width="38%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api?username=ErnestWarhead&show_icons=true&theme=default">
+
+`### [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.](#)`
+
+
 
 ## [Education](#)
 ⦿ **June 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification  
