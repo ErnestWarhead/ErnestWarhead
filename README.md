@@ -269,7 +269,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=ErnestWarhead&show_icons=true&theme=default">
-        <img height="" alt= "hello">
+        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</h2>
       </td>
       <td>
         <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
