@@ -14,12 +14,9 @@
 </table>
 
 ## [About Me](#)
->Hey there! I'm your go-to Full Stack Developer. I can speak both Spanish and English fluently`, that means I can communicate with more than half of the people in the US 😉`. Leveraging my professional certification from 4Geeks Academy, I leave little to be desired`, I’ve got a full skillset stacked with Full Stack skills 😁`.
-
->Before I was driven to developing, I drove for nearly three amazing years as an OTR truck driver. `You can say I went from big rig to sleek geek 🤔`. I pride myself on the road warrior discipline, strategic thinking, and deadline-crushing prowess I inherited from my previous trade. `Also no one beats me at American Truck Simulator 😂`.
-
->I'm packed to the brim with both front-end and back-end skills`, if it was a toolbox, it would be a big toolbox 🧰`, crafting robust, user-centric applications that stand up to high-stakes environments. Whether it's creating sleek interfaces or powering complex backend systems, I've got it covered.
-
+>Hey there! I'm your go-to Full Stack Developer. I can speak both Spanish and English fluently`, that means I can communicate with more than half of the people in the US 😉`. Leveraging my professional certification from 4Geeks Academy, I leave little to be desired`, I’ve got a full skillset stacked with Full Stack skills 😁`.  
+>Before I was driven to developing, I drove for nearly three amazing years as an OTR truck driver. `You can say I went from big rig to sleek geek 🤔`. I pride myself on the road warrior discipline, strategic thinking, and deadline-crushing prowess I inherited from my previous trade. `Also no one beats me at American Truck Simulator 😂`.  
+>I'm packed to the brim with both front-end and back-end skills`, if it was a toolbox, it would be a big toolbox 🧰`, crafting robust, user-centric applications that stand up to high-stakes environments. Whether it's creating sleek interfaces or powering complex backend systems, I've got it covered.  
 >`So, if you need a professional dragonborn🐉 in your team, hit me up:`
 
 >- 🌍 Where: Champions Gate, FL
