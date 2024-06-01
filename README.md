@@ -27,12 +27,12 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
 - 🔗 Professional: [LinkedIn](https://www.linkedin.com/in/ernesto-martinez-f)
 
 ## [Skills](#)
-<table>
+**<table>
   <tbody>
     <tr>
       <td>
           <img src="icons/JavaScript.png">
-          <h3><a>JavaScript</a></h3>
+          <h3>JavaScript</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -262,7 +262,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
     </tr>
   </tbody>
-</table>
+</table>**
 
 ## [Education](#)
 - ##### **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
