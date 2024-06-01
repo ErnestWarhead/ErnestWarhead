@@ -27,7 +27,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
 - 🔗 Professional: [LinkedIn](https://www.linkedin.com/in/ernesto-martinez-f)
 
 ## [Skills](#)
-**<table>
+<table>
   <tbody>
     <tr>
       <td>
@@ -46,7 +46,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/Python.png">
-          <h3><a>Python</a></h3>
+          <h3>Python</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -60,7 +60,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/JWT.png">
-          <h3><a>JWT</a></h3>
+          <h3>JWT</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -74,7 +74,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/React.png">
-          <h3><a>React</a></h3>
+          <h3>React</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -90,7 +90,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
     <tr>
       <td>
           <img src="icons/Bootstrap.png">
-          <h3><a>Bootstrap</a></h3>
+          <h3>Bootstrap</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -104,7 +104,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/OOP.png">
-          <h3><a>OOP</a></h3>
+          <h3>OOP</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -118,7 +118,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/HTML 5.png">
-          <h3><a>HTML</a></h3>
+          <h3>HTML</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -132,7 +132,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/CSS.png">
-          <h3><a>CSS</a></h3>
+          <h3>CSS</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -148,7 +148,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
     <tr>
       <td>
           <img src="icons/Node.png">
-          <h3><a>Node.js</a></h3>
+          <h3>Node.js</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -162,7 +162,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/Flask.png">
-          <h3><a>Flask</a></h3>
+          <h3>Flask</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -176,7 +176,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/SQL.png">
-          <h3><a>SQL</a></h3>
+          <h3>SQL</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -190,7 +190,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/SQLA.png">
-          <h3><a>SQLA</a></h3>
+          <h3>SQLA</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -206,7 +206,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
     <tr>
       <td>
           <img src="icons/GitHub.png">
-          <h3><a>GitHub</a></h3>
+          <h3>GitHub</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -220,7 +220,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/Git.png">
-          <h3><a>Git</a></h3>
+          <h3>Git</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -234,7 +234,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/Flux.png">
-          <h3><a>Flux.js</a></h3>
+          <h3>Flux.js</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -248,7 +248,7 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
       <td>
           <img src="icons/Figma.png">
-          <h3><a>Figma</a></h3>
+          <h3>Figma</h3>
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
           <img src="Score.png" alt="Score sq">
@@ -262,15 +262,15 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
       </td>
     </tr>
   </tbody>
-</table>**
+</table>
 
 ## [Education](#)
-- ##### **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
-- ##### **2013 - 2016:** [IPVCE Mártires de Humboldt 7](#) - High School Diploma
+##### **May 2024:** [4Geeks Academy](https://4geeksacademy.com/) - Full Stack Developer Certification
+##### **2013 - 2016:** [IPVCE Mártires de Humboldt 7](#) - High School Diploma
 
 ## [Languages](#)
-- ##### **[Spanish:](#)** Native language
-- ##### **[English:](#)** Advanced (C1)
+**❥ [Spanish:](#)** Native language  
+**⦿ [English:](#)** Advanced (C1)
 
 ## [Professional Experience](#)
  ##### [**2.6 years**](#) as an OTR Truck Driver with:
