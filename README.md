@@ -264,12 +264,11 @@ I'm packed to the brim with both front-end and back-end skills`, if it was a too
   </tbody>
 </table>
 
-<img align="right" width="38%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
+<img align="left" width="38%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestWarhead&layout=pie&theme=default">
 
 <img width="58%" src="https://github-readme-stats.vercel.app/api?username=ErnestWarhead&show_icons=true&theme=default">
 
-`### [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.](#)`
-
+<img width="58%" height="auto" src="Hobbies.png">
 
 
 ## [Education](#)
